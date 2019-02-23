@@ -1,0 +1,25 @@
+{
+  "name": "web_stage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "web_stage": "swc.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevewooo/web_stage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevewooo/web_stage/issues"
+  },
+  "homepage": "https://github.com/stevewooo/web_stage#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

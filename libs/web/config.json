@@ -1,0 +1,18 @@
+{
+	"server" : {
+		"port" : 81,
+		"base_res_path" : "res"
+	},
+	"wechat" : {
+		"appid" : "wxfd64f1bf0bd3c9ba",
+		"secret" : "a64cc1d9bc648749f341288e9980db9e",
+		"public_salt" : "tuan"
+	},
+	"mysql" : {
+		"host" : "localhost",
+		"user" : "root",
+		"password" : "123456",
+		"database" : "tuan",
+		"port" : 3306
+	}
+}
